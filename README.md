@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm mmmmaaaarrrr</h1>
 <h3 align="center">Tnformation Technology</h3 > 
+skils Html Java CSS
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmmmaaaarrrr&label=Profile%20views&color=0e75b6&style=flat" alt="mmmmaaaarrrr" /> </p>
@@ -23,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
+
 
 
 <h3 align="left">Languages and Tools:</h3>
