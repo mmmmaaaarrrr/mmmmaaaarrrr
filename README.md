@@ -1,14 +1,13 @@
-Hi 👋, I'm mmmmaaaarrrr</h1>
 <h1 align="center">Hi 👋, I'm mmmmaaaarrrr</h1>
-<h3 align="center">Apassloint data student from Egypt</h3>
+<h3 align="center">Tnformation Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmmmaaaarrrr&label=Profile%20views&color=0e75b6&style=flat" alt="mmmmaaaarrrr" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mmmmaaaarrrr" target="blank"><img src="https://img.shields.io/twitter/follow/mmmmaaaarrrr?logo=twitter&style=for-the-badge" alt="mmmmaaaarrrr" /></a> </p>
-<"img scr="image.jpg>
-ط
-ط
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmmmaaaarrrr" alt="mmmmaaaarrrr" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/mmmmaaaarrrr" target="blank"><img src="https://img.shields.io/twitter/follow/mmmmaaaarrrr?logo=twitter&style=for-the-badge" alt="mmmmaaaarrrr" /></a> </p>
+
+ <img src="pic_trulli.jpg" alt="Italian Trulli">
 - 🔭 I’m currently working on **Track Back**
 
 - 🌱 I’m currently learning **React native**
@@ -23,7 +22,9 @@ Hi 👋, I'm mmmmaaaarrrr</h1>
 <p align="left">
 <a href="https://twitter.com/mmmmaaaarrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmmmaaaarrrr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maramar moro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maramar moro" height="30" width="40" /></a>
-<a href="https://fb.com/مرمر مورو" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="مرمر مورو" height="30" width="40" /></a>
+<a href="https://fb.com/mamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mamo" height="30" width="40" /></a>
+<a href="https://instagram.com/meme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meme" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@user-ne5og7ko7y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@user-ne5og7ko7y" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,5 +38,4 @@ Hi 👋, I'm mmmmaaaarrrr</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmmmaaaarrrr&show_icons=true&locale=en" alt="mmmmaaaarrrr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmmmaaaarrrr&" alt="mmmmaaaarrrr" /></p>
-
 
