@@ -4,7 +4,7 @@ Skils: Html Java CSS
 
 <img scr="" alt="gif"/>
 
-![Uploading Untitled.png…]()
+https://www.google.com/imgres?q=Web%20GIF&imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fanimation%2F2023%2F06%2F13%2F15%2F13%2F15-13-17-95_512.gif&imgrefurl=https%3A%2F%2Fpixabay.com%2Fgifs%2Finternet-click-web-page-6610%2F&docid=bjuVIc-fODwNuM&tbnid=I4oP_R7RaxdYsM&w=500&h=500&hcb=2
 
 
 
